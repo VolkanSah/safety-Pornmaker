@@ -24,7 +24,7 @@ product, not an afterthought.
 **Who may use it:** adults only (18+), signed in with a Hugging Face account.
 **Not allowed, and actively blocked:** anything that depicts or suggests minors, violence/gore,
 non-consensual or degrading content. Please do not use real people's names or likenesses
-(this rule is **not** technically enforced; see "Limits").
+(this rule is **not** technically enforced; see "Limits" but blocked from providers/piplines).
 
 ## Models
 
