@@ -1,3 +1,6 @@
+# source: https://github.com/VolkanSah/safety.py see always for updates! 
+# Please! will set up an ai for complex stuff and soon as vector! still crafting sorry
+
 """Safety layer for an adult image generator.
 
 Policy: adult sexual content is allowed. ANYTHING that suggests a minor is blocked, strictly.
