@@ -13,6 +13,8 @@ tags:
 sdk_version: 6.31.0
 ---
 
+> idea from @BadTin fixed and secured by me!
+> 
 # Adult Image Studio (18+)
 
 A small text-to-image tool for **adults**. It can produce adult (NSFW) imagery of fictional adult
