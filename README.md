@@ -94,3 +94,6 @@ Kategorie und ein Hash des Prompts, keine Bilder. Kein Filter ist perfekt; Meldu
 bitte im Community-Tab.
 
 **Cheers**
+
+
+> Demo use with your own HF Quota! If you made shit HF will fuck you 😙 https://huggingface.co/spaces/BadTin/safe-adult-studio, thx to @BadTin
