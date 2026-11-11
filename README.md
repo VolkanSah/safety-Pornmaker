@@ -15,7 +15,7 @@ sdk_version: 6.31.0
 
 > idea from @BadTin fixed and secured by me!
 > 
-# Adult Image Studio (18+)
+# Adult Image Studio (18+) Boilerplate
 
 A small text-to-image tool for **adults**. It can produce adult (NSFW) imagery of fictional adult
 persons and runs on ZeroGPU. Because that is a sensitive use case, the safety design is part of the
