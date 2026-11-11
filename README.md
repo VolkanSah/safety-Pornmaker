@@ -99,4 +99,4 @@ bitte im Community-Tab.
 > Demo use with your own HF Quota! If you made shit HF will fuck you 😙 https://huggingface.co/spaces/BadTin/safe-adult-studio, thx to @BadTin
 
 
-Specs: on free 5 min zero-Quota ~ 40 SDXL images 25-30 Flux Images a day
+Specs: on free 5 min zero-Quota ~ 40 SDXL images 25-30 Flux Images a day for free, you pervets
